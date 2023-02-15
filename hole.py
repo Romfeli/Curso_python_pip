@@ -1,0 +1,1 @@
+print("Esto es lo que hacemos con python y la terminal para ejecutar")
